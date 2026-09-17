@@ -21,6 +21,12 @@ This repository documents my continuous learning journey and provides a centrali
 
 | Certificate / Course | Provider | Certificate                           |
 | -------------------- | -------- | ------------------------------------- |
+| Machine Learning with Decision Tree and Random Forest      | 365 DataScience | [View Certificate](https://github.com/YasirISkhan/Professional-Certifications-Courses/blob/main/Machine%20Learning/ML%20with%20DT%20and%20RF.pdf) |
+| Course Name          | Provider | [View Certificate](./certificate.pdf) |
+| Course Name          | Provider | [View Certificate](./certificate.pdf) |
+| Course Name          | Provider | [View Certificate](./certificate.pdf) |
+| Course Name          | Provider | [View Certificate](./certificate.pdf) |
+| Course Name          | Provider | [View Certificate](./certificate.pdf) |
 | Course Name          | Provider | [View Certificate](./certificate.pdf) |
 | Course Name          | Provider | [View Certificate](./certificate.pdf) |
 
